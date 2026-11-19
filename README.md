@@ -2,19 +2,19 @@
 
 ###
 
-<h6 data-importer="text" align="left">🔍 Quality Engineer | Manual Testing | Automation Testing | Selenium with Python | API Testing | SQL</h6>
+<h5 data-importer="text" align="left">🔍 Quality Engineer | Manual Testing | Automation Testing | Selenium with Python | API Testing | SQL</h5>
 
 ###
 
-<h4 data-importer="text" align="left">About me</h4>
+<h3 data-importer="text" align="left">About me</h3>
 
 ###
 
-<h6 data-importer="text" align="left">Welcome to my GitHub profile!<br><br>I'm an aspiring Software Tester / QA Engineer passionate about software quality, finding defects, designing effective test cases, and improving user experience.<br><br>This GitHub profile showcases my testing projects, practical exercises, test cases, bug reports, API testing, SQL testing, and automation learning journey.<br><br>👨‍💻 About Me<br><br>🔍 Passionate about Software Testing and Quality Assurance<br>📝 Practicing Test Case Design and Test Scenario Creation<br>🐞 Creating and documenting Bug Reports<br>🧪 Practicing Functional, Regression, Smoke, and Sanity Testing<br>🔗 Learning API Testing using Postman<br>🗄️ Learning SQL and Database Testing<br>🤖 Exploring Test Automation using Selenium<br>🌱 Continuously learning and improving my testing skills<br><br>🎯 Career Goal<br><br>My goal is to build strong practical experience in Software Testing and Quality Assurance and grow as a professional QA Engineer / Software Tester.<br><br>I use GitHub to document my projects, practice testing concepts, and continuously improve my technical skills.</h6>
+<h5 data-importer="text" align="left">Welcome to my GitHub profile!<br><br>I'm an aspiring Software Tester / QA Engineer passionate about software quality, finding defects, designing effective test cases, and improving user experience.<br><br>This GitHub profile showcases my testing projects, practical exercises, test cases, bug reports, API testing, SQL testing, and automation learning journey.<br><br>👨‍💻 About Me<br><br>🔍 Passionate about Software Testing and Quality Assurance<br>📝 Practicing Test Case Design and Test Scenario Creation<br>🐞 Creating and documenting Bug Reports<br>🧪 Practicing Functional, Regression, Smoke, and Sanity Testing<br>🔗 Learning API Testing using Postman<br>🗄️ Learning SQL and Database Testing<br>🤖 Exploring Test Automation using Selenium<br>🌱 Continuously learning and improving my testing skills<br><br>🎯 Career Goal<br><br>My goal is to build strong practical experience in Software Testing and Quality Assurance and grow as a professional QA Engineer / Software Tester.<br><br>I use GitHub to document my projects, practice testing concepts, and continuously improve my technical skills.</h5>
 
 ###
 
-<h5 data-importer="text" align="left">🛠️ Testing Skills</h5>
+<h4 data-importer="text" align="left">🛠️ Testing Skills</h4>
 
 ###
 
